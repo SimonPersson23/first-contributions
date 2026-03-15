@@ -1,6 +1,7 @@
 # Contributors
 <!-- prettier-ignore-start -->
 [martindevelopske] (martindevelops.dev)
+-[Simon Persson]
 -[Tse C](https://github.com/kyroC)
 -[Ahmed Abdelsalam](https://github.com/Bakar404)
 -[Kalluri Naveen](https://github.com/kalluri02002)
